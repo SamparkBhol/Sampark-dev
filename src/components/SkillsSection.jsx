@@ -43,7 +43,7 @@ const SkillsSection = () => {
       { name: "Langflow", icon: Brain, useCases: "Visual LLM Orchestration", color: "from-teal-400 to-emerald-500" },
       { name: "Flask", icon: Server, useCases: "Python Web Backend", color: "from-slate-600 to-gray-700" },
       { name: "Node.js", icon: Server, useCases: "JavaScript Backend Runtime", color: "from-green-500 to-lime-600"},
-      { name: "Express.js", icon: Server, useCases: "Node.js Web Framework", color: "from-gray-600 to-slate-700"},
+      { name: "LangGraph", icon: Server, useCases: "Building Stateful LLM Workflows", color: "from-gray-600 to-slate-700"},
       { name: "Flutter", icon: Zap, useCases: "Cross-Platform Mobile Apps", color: "from-blue-400 to-indigo-500" },
       { name: "Godot", icon: Settings, useCases: "Game Development Engine", color: "from-sky-600 to-blue-700" },
       { name: "Orange", icon: Cpu, useCases: "Data Mining, ML GUI", color: "from-amber-500 to-orange-600" },
