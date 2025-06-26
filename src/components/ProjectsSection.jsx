@@ -60,6 +60,12 @@ const ProjectCard = ({ project, index }) => {
 const ProjectsSection = () => {
   const projects = [
     {
+      title: 'Plant Disease Detector Webapp',
+      description: `Revolutionizing agriculture with cutting-edge AI technology. Upload a leaf image and get instant disease diagnosis with professional treatment recommendations`,
+      tech: ['Python', 'MediaPipe', 'OpenCV', 'FastAPI', 'ReactJS', 'ThreeJS', 'APIs'],
+      link: 'https://plantdisease-scarlmtd-projects-co.vercel.app/',
+    },
+    {
       title: 'HyDe NLP',
       description: `HyDE leverages a Large Language Model (LLM) to generate a hypothetical document from the user's query. The generated document reflects an ideal answer or context relevant to the query — even though it doesn't actually exist in the corpus. The system then encodes this hypothetical document into an embedding, and uses it to retrieve real documents from a target corpus using vector similarity search while eliminating the need for labeled training data (zero-shot).`,
       tech: ['Python', 'Sentence Transformers', 'FAISS', 'FastAPI', 'Flask', 'Hugging Face Transformers', 'LangChain', 'React'],
@@ -90,10 +96,10 @@ const ProjectsSection = () => {
       link: 'https://github.com/SamparkBhol/Qiskit-Quantum-Code-Snippets',
     },
     {
-      title: 'AetherEngine',
-      description: 'A lightweight 2D game engine or framework built from scratch or by extending existing libraries, focusing on performance and ease of use for simple game development. Potentially includes features like entity-component system, basic physics, and rendering pipeline.',
-      tech: ['JavaScript', 'HTML5 Canvas', 'ECS'],
-      link: 'https://github.com/SamparkBhol/AetherEngine',
+      title: 'EtherEngine',
+      description: 'The ultimate browser-based game engine with AI-powered development tools. Build, test, and deploy games without any backend setup along',
+      tech: ['ReactJS', 'AiMl', 'many more'],
+      link: 'https://github.com/SamparkBhol/EtherEngine',
     },
     {
       title: 'GameDev AI Assistant (Extension)',
