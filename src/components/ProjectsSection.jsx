@@ -106,6 +106,12 @@ const ProjectsSection = () => {
       description: 'A browser extension designed to assist game developers by providing quick access to documentation, code snippets, and AI-powered suggestions for common game development tasks and challenges. Integrates with popular game engines and APIs.',
       tech: ['JavaScript', 'HTML', 'CSS', 'Browser Extension API', 'OpenAI API'],
       link: 'https://github.com/SamparkBhol/gamedev-ai-assistant',
+    },
+    {
+      title: 'CodeVault',
+      description: 'The ultimate toolkit for modern developers. Access a vast library of code snippets, plan your projects with an AI-driven workflow, and unlock powerful insights. Along with this there is smart ai workflow management of tasks',
+      tech: ['React', 'CSS', 'Vite', 'AIML'],
+      link: 'https://taskcodevault-vault.vercel.app',
     }
   ];
   
