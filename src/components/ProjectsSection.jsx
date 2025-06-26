@@ -67,7 +67,7 @@ const ProjectsSection = () => {
     },
     {
       title: 'HyDe NLP',
-      description: `HyDE leverages a Large Language Model (LLM) to generate a hypothetical document from the user's query. The generated document reflects an ideal answer or context relevant to the query — even though it doesn't actually exist in the corpus. The system then encodes this hypothetical document into an embedding, and uses it to retrieve real documents from a target corpus using vector similarity search while eliminating the need for labeled training data (zero-shot).`,
+      description: `HyDE leverages This project implements for precise zero-shot dense retrieval, revolutionizing how we find information without needing labeled data.This project is inspired by the groundbreaking research paper Precise Zero-Shot Dense Retrieval without Relevance Labels`,
       tech: ['Python', 'Sentence Transformers', 'FAISS', 'FastAPI', 'Flask', 'Hugging Face Transformers', 'LangChain', 'React'],
       link: 'https://github.com/SamparkBhol/HyDE-NLP',
     },
@@ -79,7 +79,7 @@ const ProjectsSection = () => {
     },
     {
       title: 'Descollab',
-      description: 'Architected distributed collaborative design platform optimizing team workflows with real-time synchronization and feedback. Implemented React architecture with Tailwind CSS for responsive frontend, integrated with Firebase for scalable data management. Developed live commenting, version control, and conflict resolution features enhancing collaboration efficiency and reliability.',
+      description: ' A collaborative design platform optimizing workflows with real-time synchronization , implemented React architecture with Tailwind CSS for responsive frontend, integrated with Firebase and developed live commenting, version control, and conflict resolution.',
       tech: ['React', 'Tailwind CSS', 'Firebase', 'JavaScript'],
       link: 'https://github.com/SamparkBhol/descollab',
     },
