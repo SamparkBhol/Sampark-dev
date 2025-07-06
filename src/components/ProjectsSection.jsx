@@ -66,6 +66,12 @@ const ProjectsSection = () => {
       link: 'https://plantdisease-scarlmtd-projects-co.vercel.app/',
     },
     {
+      title: 'SaDA AI',
+      description: 'A platform with intelligence with multimodal AI customer support. Upload docs, ask questions, and get instant insights.',
+      tech: ['React', 'Python', 'Gemini APi', 'AutoML' , 'many more'],
+      link: 'https://github.com/SamparkBhol/SaDA-Ai',
+    },
+    {
       title: 'HyDe NLP',
       description: `HyDE leverages This project implements for precise zero-shot dense retrieval, revolutionizing how we find information without needing labeled data.This project is inspired by the groundbreaking research paper Precise Zero-Shot Dense Retrieval without Relevance Labels`,
       tech: ['Python', 'Sentence Transformers', 'FAISS', 'FastAPI', 'Flask', 'Hugging Face Transformers', 'LangChain', 'React'],
@@ -88,12 +94,6 @@ const ProjectsSection = () => {
       description: 'A 2D adventure game inspired by classic Zelda titles, featuring tile-based maps, character movement, combat mechanics, and basic enemy AI. Developed using a game engine (e.g., Godot or Unity with C#) focusing on core gameplay loops and pixel art aesthetics.',
       tech: ['Game Engine (Godot/Unity)', 'C# or GDScript', 'Pixel Art'],
       link: 'https://github.com/SamparkBhol/Zeldaprojectgame',
-    },
-    {
-      title: 'Quantum Code Snippets',
-      description: 'A collection of illustrative code examples and small projects demonstrating fundamental quantum computing concepts.',
-      tech: ['Qiskit', 'Python', 'Jupyter'],
-      link: 'https://github.com/SamparkBhol/Qiskit-Quantum-Code-Snippets',
     },
     {
       title: 'EtherEngine',
