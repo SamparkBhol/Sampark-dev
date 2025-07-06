@@ -5,7 +5,7 @@ import { FileText, Linkedin, Github, Mail } from 'lucide-react';
 
 const ContactLinks = () => {
   const links = [
-    { href: "https://drive.google.com/file/d/1Chgh7Nx_Tza_1JdMCtlrUAwDbW_sQTvF/view?usp=sharing", icon: FileText, label: "Resume", style: "bg-primary/10 hover:bg-primary/20 text-primary border-primary/30" },
+    { href: "https://drive.google.com/file/d/1H9PgAsGuzHn1Bh7zboSyQtqlyZI9WPpU/view?usp=sharing", icon: FileText, label: "Resume", style: "bg-primary/10 hover:bg-primary/20 text-primary border-primary/30" },
     { href: "https://github.com/samparkbhol", icon: Github, label: "GitHub", style: "bg-gray-700/20 hover:bg-gray-600/30 text-gray-300 border-gray-600/50" },
     { href: "www.linkedin.com/in/sampark-bhol-118560251", icon: Linkedin, label: "LinkedIn", style: "bg-blue-600/20 hover:bg-blue-500/30 text-blue-300 border-blue-500/50" },
     { href: "mailto:samparkaccess1234@gmail.com", icon: Mail, label: "Email", style: "bg-red-600/20 hover:bg-red-500/30 text-red-300 border-red-500/50" },
