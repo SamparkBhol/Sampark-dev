@@ -81,7 +81,7 @@ const CertificationsSection = () => {
       skills: ["Deep Sorcery", "TensorFlow Alchemy", "Neural Constructs", "Machine Enchantment"],
       link: "https://tinyurl.com/49ec28jp",
       verified: true
-    }
+    },
     {
       title: "Cloud Summoner's Scroll of Oracle Foundations",
       issuer: " Oracle ",
