@@ -68,7 +68,7 @@ const CertificationsSection = () => {
   const certifications = [
     {
       title: "ISAA Scroll of Security",
-      issuer: "The Saviynt Order",
+      issuer: "The Saviynt ",
       description: "An ancient scroll granting mastery in Identity Security & Access Assurance, covering arcane identity governance, access runes, and potent security protocols.",
       skills: ["Identity Weaving", "Access Runes", "Security Glyphs", "Compliance Edicts"],
       link: "https://shorturl.at/cQj3S",
@@ -76,10 +76,18 @@ const CertificationsSection = () => {
     },
     {
       title: "Deep Learning Codex of TensorFlow",
-      issuer: "The IBM Sages",
+      issuer: "The IBM foundation",
       description: "A powerful codex detailing forbidden deep learning techniques, neural network constructs, and their practical incantations using the TensorFlow framework.",
       skills: ["Deep Sorcery", "TensorFlow Alchemy", "Neural Constructs", "Machine Enchantment"],
       link: "https://tinyurl.com/49ec28jp",
+      verified: true
+    }
+    {
+      title: "Cloud Summoner's Scroll of Oracle Foundations",
+      issuer: " Oracle ",
+      description: "An enchanted scroll bestowed upon those who have mastered the foundational rites of Oracle Cloud Infrastructure—wielding knowledge of cloud realms, virtual constructs, storage sigils, and multi-tenant incantations.",
+      skills: ["Cloud Invocation", "Oracle Foundations", "Infrastructure Summoning", "Virtual Networking"],
+      link: "https://drive.google.com/file/d/10oyQhf3rD7HnHv3NYwNhy9JIWIdrOZ24/view?usp=sharing",
       verified: true
     }
   ];
